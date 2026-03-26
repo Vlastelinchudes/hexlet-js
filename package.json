@@ -22,5 +22,8 @@
   },
   "dependencies": {
     "lodash": "^4.17.23"
+  },
+  "devDependencies": {
+    "prettier": "^3.8.1"
   }
 }
